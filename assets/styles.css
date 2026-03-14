@@ -1,0 +1,38 @@
+/* body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #1f77b4;
+} */
+/* Background gradient */ .stApp {
+    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+    color: white;
+}
+
+/* Title styling */
+h1 {
+    font-size: 48px;
+    font-weight: 700;
+}
+
+/* Card design */
+.metric-card {
+    background: rgba(255, 255, 255, 0.08);
+    padding: 20px;
+    border-radius: 12px;
+    backdrop-filter: blur(8px);
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.4);
+}
+
+/* Sidebar style */
+[data-testid="stSidebar"] {
+    background: rgba(0, 0, 0, 0.6);
+}
+
+/* Chart container */
+.chart-card {
+    background: rgba(255, 255, 255, 0.05);
+    padding: 25px;
+    border-radius: 12px;
+}
