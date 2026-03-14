@@ -99,11 +99,6 @@ PyClimaExplorer
 
 Installation
 
-Clone the repository:
-
-git clone https://github.com/your-username/PyClimaExplorer.git
-
-
 Move into the project directory:
 
 cd PyClimaExplorer
